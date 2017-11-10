@@ -84,6 +84,8 @@ emailCART = rpart(responsive~., data=train, method="class")
 
 prp(emailCART)
 
+# NOTE: We can also use cross validation or randomForest method which may increase the accuracy of the model
+
 
 # Make predictions on the test set
 
