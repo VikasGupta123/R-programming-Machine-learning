@@ -1,7 +1,7 @@
 #Clustering method to analyze the image quality of a picture of flower
 # And also creating a model to sport tumor in the image of a patient's brain
 # The data used in this code can be found from the following link
-# " 
+# " https://drive.google.com/open?id=1LX2qsuP_7bYdioiwJtfsLKpH0vMdROtJ "
 
 flower = read.csv("flower.csv", header=FALSE)
 str(flower)
