@@ -1,4 +1,4 @@
-#its a code to predict an email is responsive or not and the data in used can be downloaded from the following link
+# its a code to predict an email is responsive or not and the data used here can be downloaded from the following link
 # " https://drive.google.com/open?id=1WwfMrfu9-oO5aDM5iWvuJLo1DP071KwJ "
 
 
